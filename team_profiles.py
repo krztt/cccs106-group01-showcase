@@ -69,8 +69,8 @@ def get_initial_team() -> List[TeamMember]:
         # Replace Developer 3 profile with your real student details:
         # ----------------------------------------------------------------------
         TeamMember(
-            student_id="[Dev 3] "2410997",
-            full_name="[Dev 3] "Chris Jericho Francisco",
+            student_id="2410997",
+            full_name="Chris Jericho Francisco",
             role="QA & Feature Engineer",
             specialization="Testing Diagnostics, Theme Engine & Controls",
             github_handle="@hesuchris2",          # example: "@areyes-cspc"
