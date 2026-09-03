@@ -43,8 +43,8 @@ def get_initial_team() -> List[TeamMember]:
         TeamMember(
             student_id="2410601" , # example: "2024-10123"
             full_name="Kurt Rainier B. Aquino", # example: "Maria Clara Santos"
-            role="Lead Frontend UI Developer & Requirements Engineer",
-            specialization="Full-stack UI Design & Flet Components",
+            role="Lead Frontend UI Developer",
+            specialization="Flet Reactive Widgets & Material 3 Layouts",
             github_handle="@krztt",          # example: "@mariaclara-cspc"
             avatar_icon=ft.Icons.PALETTE,
             accent_color=ft.Colors.TEAL_700,
@@ -58,7 +58,7 @@ def get_initial_team() -> List[TeamMember]:
             student_id="2411286",  # example: "2024-10456"
             full_name="Jaressen Kyle Salcedo", # example: "Juan Dela Cruz"
             role="Backend & State Engineer",
-            specialization="Backend",
+            specialization="State Mutation & Event Handlers",
             github_handle="@jksalcedo",          # example: "@jdelacruz-cspc"
             avatar_icon=ft.Icons.DATA_OBJECT,
             accent_color=ft.Colors.AMBER_800,
